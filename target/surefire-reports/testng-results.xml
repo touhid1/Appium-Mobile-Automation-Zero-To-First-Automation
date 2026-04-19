@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-19T02:21:24 MSK" name="Appium Test Suite" finished-at="2026-04-19T02:21:36 MSK" duration-ms="11735">
+    <groups>
+    </groups>
+    <test started-at="2026-04-19T02:21:24 MSK" name="Android Settings Test" finished-at="2026-04-19T02:21:36 MSK" duration-ms="11735">
+      <class name="com.qa.FirstTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.FirstTest@35047d03]" started-at="2026-04-19T02:21:24 MSK" name="setup" finished-at="2026-04-19T02:21:32 MSK" duration-ms="7809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openSettingsTest()[pri:0, instance:com.qa.FirstTest@35047d03]" started-at="2026-04-19T02:21:32 MSK" name="openSettingsTest" finished-at="2026-04-19T02:21:35 MSK" duration-ms="2927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSettingsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.FirstTest@35047d03]" started-at="2026-04-19T02:21:35 MSK" name="tearDown" finished-at="2026-04-19T02:21:36 MSK" duration-ms="969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.FirstTest -->
+    </test> <!-- Android Settings Test -->
+  </suite> <!-- Appium Test Suite -->
+</testng-results>
